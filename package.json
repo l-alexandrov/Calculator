@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lubo1998/Calculator.git"
+    "url": "git+https://github.com/l-alexandrov/Calculator.git"
   },
   "keywords": [
     "web",
@@ -21,9 +21,9 @@
   "author": "Lyuboslav Alexandro",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lubo1998/Calculator/issues"
+    "url": "https://github.com/l-alexandrov/Calculator/issues"
   },
-  "homepage": "https://github.com/lubo1998/Calculator#readme",
+  "homepage": "https://github.com/l-alexandrov/Calculator#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "debug": "^3.2.6",
