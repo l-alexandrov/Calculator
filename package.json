@@ -30,7 +30,7 @@
     "express": "^4.17.1",
     "handlebars-helper-selectif": "^1.0.1",
     "hbs": "^4.0.4",
-    "mongoose": "^5.6.9",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "serve-favicon": "^2.5.0"
   }
